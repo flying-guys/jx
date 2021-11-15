@@ -152,6 +152,5 @@ DW,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
 CNBC亚洲财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
 CATCHPLAY电影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
-BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8#http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
