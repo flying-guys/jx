@@ -115,7 +115,7 @@ NewTV頻道,#genre#
 台视财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 民视,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
 公视台语台,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
-ETtoday综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
+MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 华视教育体育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 客家频道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
