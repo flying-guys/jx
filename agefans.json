@@ -37,7 +37,7 @@
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+)",
   "dtUrlName": "/text()",
-  "playUrl": "https://www.agefans.vip/age/player/ckx1/?url={playUrl}",
+  "playUrl": "https://www.agefans.vip/play/{playUrl}",
   "playUa": "",
   "searchUrl": "https://www.agefans.vip/search?query={wd}&page=1",
   "scVodNode": "//div[@class='blockcontent1']/div/a",
