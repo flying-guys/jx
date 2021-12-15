@@ -22,8 +22,7 @@
 五星体育,http://39.134.134.89/000000001000/5000000010000017540/index.m3u8
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
-魅力足球,http://112.25.48.68/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
+魅力足球,http://27.47.68.26:808/hls/50/index.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 央视频道,#genre#
