@@ -263,9 +263,6 @@ MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 创世电视,http://al-pull2.hkatv.vip/live/CTV.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-翡翠HD,http://113.64.147.5:808/hls/67/index.m3u8
-星空卫视,http://113.64.147.5:808/hls/87/index.m3u8
-TVB星河,http://113.64.147.5:808/hls/135/index.m3u8
 CNC中文台,http://39.135.138.57:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
